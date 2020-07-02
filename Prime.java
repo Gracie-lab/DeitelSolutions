@@ -12,7 +12,7 @@ public class Prime {
 
 
     public void factors() {
-           //for (int number=1; number < 10000; number++) {
+           for (int number=1; number < 10000; number++) {
                int check = 0;
                 for (divisor = 1; divisor <= number; divisor++) {
                     if (number % divisor == 0) {
