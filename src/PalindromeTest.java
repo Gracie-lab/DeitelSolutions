@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+
+//@todo Grace, move your tests to the newly created directory and test from there
 public class PalindromeTest {
     public static void main(String... args){
         Palindrome check = new Palindrome();
